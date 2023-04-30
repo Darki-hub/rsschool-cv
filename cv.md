@@ -16,6 +16,7 @@ While I may not have prior work experience in frontend development, I am committ
 
 
 Overall, I am a dedicated and motivated individual who is passionate about front-end development and always eager to learn and grow in this field.
+
 **********************************************************************
 ## Skills
 - HTML
@@ -37,6 +38,7 @@ Overall, I am a dedicated and motivated individual who is passionate about front
 *********************************************************************
 ## Education
 *BSU, Minsk* - Business and management (2015-2020)
+
 *********************************************************************
 ## Languages
 English - Upper-Intermediate
