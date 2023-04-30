@@ -1,5 +1,5 @@
 # Darina Gryadzuk
-![Voopi](C:\Users\korol_000\Desktop\voopi.jpg "Voopi")
+![voopi](https://user-images.githubusercontent.com/89610867/235378527-939f3308-3396-4bf0-a6f5-89a60ecb5409.jpg)
 * +48262548236
 * [Linkedin](linkedin.com)
 **********************************************************************
