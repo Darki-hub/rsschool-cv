@@ -1,7 +1,9 @@
 # Darina Gryadzuk
-![Voopi](C:\Users\korol_000\Desktop\voopi.jpg "Voopi")
+<img src="https://user-images.githubusercontent.com/89610867/235378527-939f3308-3396-4bf0-a6f5-89a60ecb5409.jpg" width="400">
+
 * +48262548236
 * [Linkedin](linkedin.com)
+
 **********************************************************************
 ## About me
 I am a junior frontend developer with a passion for creating visually appealing and user-friendly websites. My ultimate goal is to become an expert in my field and **deliver outstanding results** to my clients. My top priorities are meeting project deadlines, providing high-quality code, and ensuring excellent communication with team members and clients.
@@ -14,6 +16,7 @@ While I may not have prior work experience in frontend development, I am committ
 
 
 Overall, I am a dedicated and motivated individual who is passionate about front-end development and always eager to learn and grow in this field.
+
 **********************************************************************
 ## Skills
 - HTML
@@ -35,6 +38,7 @@ Overall, I am a dedicated and motivated individual who is passionate about front
 *********************************************************************
 ## Education
 *BSU, Minsk* - Business and management (2015-2020)
+
 *********************************************************************
 ## Languages
 English - Upper-Intermediate
